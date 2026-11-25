@@ -1,11 +1,11 @@
 {
-  "name": "Marcos Lisboa – Transporte e Cuidado Especializado",
-  "short_name": "Marcos Lisboa",
-  "start_url": "nutri_pro/index.html",
-  "scope": "nutri_pro/",
+  "name": "NutriCare Pro – Prontuário & Nutrição",
+  "short_name": "NutriCare Pro",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0f172a",
-  "theme_color": "#1e3a8a",
+  "theme_color": "#064e3b",
   "icons": [
     {
       "src": "./icon-192.png",
