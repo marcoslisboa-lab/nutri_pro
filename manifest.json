@@ -1,7 +1,7 @@
 {
-  "name": "NutriCare Pro – Prontuário & Nutrição",
-  "short_name": "NutriCare Pro",
- "start_url": "./index.html",
+  "name": "Nome do Aplicativo",
+  "short_name": "App",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#0f172a",
