@@ -1,8 +1,8 @@
 {
   "name": "Nome do Aplicativo",
   "short_name": "App",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "nutri_pro/index.html",
+  "scope": "nutri_pro/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#064e3b",
